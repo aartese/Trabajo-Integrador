@@ -1,0 +1,174 @@
+@media screen and (max-width: 890px){
+
+    html{
+        font-size: 12px;
+    }
+}
+/*---- Imagen texto ----*/
+.propImg{
+    filter: brightness(50%);
+    min-height: auto;
+}
+.altop{
+    margin-top: 2%;
+}
+.textoCarousel {
+    position: absolute;
+    text-align-last: end;
+    font-size:1rem;
+    height: 80%;
+    width: 40%;
+    margin-left: 24%;
+    padding-right: 5%;
+    padding-left: -10%;
+    padding-top: 95px;
+    overflow-y:hidden;
+}
+
+.cajaCarousel{
+    margin-top: 95px;
+}
+
+.botonesCarousel{
+    min-width: 170px;
+    min-height: 40px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ticket{
+    color: rgba(115, 255, 0, 0.6);
+}
+.bar-bsas{
+    color:rgb(160, 153, 144);
+    text-align:right;
+}
+.bg-barra{
+    background-color: rgb(79, 84, 88);
+}
+.fondo-image {
+    background-image: url(img/ba1.jpg);
+}
+.color-fuente{
+    color: rgb(253, 254, 255);
+    text-align: left;
+}
+.color-fuente1{
+    color: black;
+}
+.tam-fuente{
+    font-size: 18px;
+}
+.tam-fuente1{
+    color:rgb(255, 253, 253);
+    font-size: 25px;
+    text-align: right;
+    padding-right: 10%;
+    padding-left: 79%;
+    position: absolute;
+        bottom: 45%;
+}
+.tam-fuente2{
+    color:rgb(255, 253, 253);
+    font-size: 15px;
+    text-align: right;
+    padding-left: 48%;
+    padding-right: 10%;
+    position: absolute;
+        bottom: 30%;
+}
+.tam-fuente3{
+    text-align: center;
+    color:#000000;
+    font-size: 80%;
+    margin-top: 1%;
+    opacity: 80%;
+}
+.tam-fuente4{
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: 120%;
+    margin-top: 0%;
+    font-size: 27.5px;
+}
+.tam-botones{
+    position: absolute;
+    bottom: 24%;
+    padding-top: 0%;
+    padding-right: 0%;
+
+}
+.img-fondo{
+    max-width: auto;
+    height: 25%;
+    border: 0px;
+    background-size: contain;
+    background-size: cover;
+    position: relative;
+    background-color: black;
+}
+.foto{
+    width: 100%; 
+}
+.filas1{
+ width:50%;  
+}
+.f2-txt{
+    font-size: 2%;
+    color: antiquewhite;
+    text-align: justify;
+}
+    
+.filas2{
+    width:50%;
+    height: 40%;
+    background-color: #000000de;   
+    text-align: justify;
+    color: antiquewhite;
+   }
+.pad{
+    padding-right: 35%;
+}
+.tex-centro{
+    align-items: center;
+    padding: 10%;
+    padding-right: 50%;
+}
+.text{
+    opacity: 50%;
+}
+.foo-fontxt{
+    background-color: rgba(6, 66, 134, 0.822);
+    color:rgb(253, 254, 255);
+    text-align: center;
+}
+.colorflotante{
+    height:auto;
+    background-color: #34393f;
+}
+.textoflotante1{
+    padding-top: 10px;
+    font-size: 2rem;
+    text-align: left;
+}
+
+.textoflotante2{
+    padding-top: 10px;
+    font-size: 1rem;
+    text-align: left;
+}
+.punteada{
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+.fondo-footer{
+    background-image: linear-gradient(to right, #21333c ,#1b5271);
+    justify-content: center;
+    margin-top: 1%;
+}
